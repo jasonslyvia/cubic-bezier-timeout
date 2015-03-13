@@ -1,0 +1,24 @@
+{
+  "name": "cubic-bezier-timeout",
+  "version": "0.0.1",
+  "description": "Call your callback with a sequence of intervals like using CSS3 cubic-bezier-timeout",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jasonslyvia/cubic-bezier-timeout.git"
+  },
+  "keywords": [
+    "cubic",
+    "bezier",
+    "timeout"
+  ],
+  "author": "jasonslyvia <jasonslyvia@gmail.com> (http://undefinedblog.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jasonslyvia/cubic-bezier-timeout/issues"
+  },
+  "homepage": "https://github.com/jasonslyvia/cubic-bezier-timeout"
+}
